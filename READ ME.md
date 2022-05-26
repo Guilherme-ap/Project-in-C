@@ -4,4 +4,4 @@
 <br>
  <i>Este Projeto consiste em fazer um programa utilizando a linguagem C que irá recolher os dados de um cliente guardar em um arquivo binario para realizar consultas posteriormente</i>
 
-### *Em andamento...*
+### *Concluido...*
